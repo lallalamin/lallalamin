@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mari Hirota</h1>
 <h3 align="center">A CS major with a passion for coding and building innovative solutions from Japan and Thailand.</h3>
 
-- 🔭 I’m currently working on **To-Do List**
+- 🔭 I’m currently working on: **To-Do List**
 
-- 🌱 I’m currently learning **Angular and Machine Learning.**
+- 🌱 I’m currently learning: **Angular and Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lallalamin](https://github.com/lallalamin)
+- 👨‍💻 All of my projects are available at: [https://github.com/lallalamin](https://github.com/lallalamin)
 
-- 📫 How to reach me **mari.hirota97@gmail.com**
+- 📫 How to reach me: **mari.hirota97@gmail.com** (Personal) & **mari.hirota@nwciowa.edu** (School)
 
-- ⚡ Fun fact **I love Boba.**
+- ⚡ Fun fact: **I love Boba.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
