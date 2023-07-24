@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mari Hirota</h1>
-<h3 align="center">A passionate frontend developer from Japan and Thailand.</h3>
+<h3 align="center">A CS major with a passion for coding and building innovative solutions from Japan and Thailand.</h3>
 
 - 🔭 I’m currently working on **To-Do List**
 
