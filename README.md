@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **mari.hirota97@gmail.com** (Personal) & **mari.hirota@nwciowa.edu** (School)
 
-- ⚡ Fun fact: **I love Boba.**
+- ⚡ Fun fact: **I love Boba and a cat lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
