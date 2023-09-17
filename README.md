@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://i.imgur.com/fmHxkCc.gif)](https://lallalamin.io)
 <h1 align="center">Hi 👋, I'm Mari Hirota</h1>
 <h3 align="center">A CS major with a passion for coding and building innovative solutions from Japan and Thailand.</h3>
-<img alighn="right" alt="coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations">
+<img alighn="right" alt="coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on: **Portfolio**
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at: [https://github.com/lallalamin](https://github.com/lallalamin)
 
-- 📫 How to reach me: **mari.hirota97@gmail.com** (Personal) & **mari.hirota@nwciowa.edu** (School)
+- 📫 How to reach me: **mari.hirota97@gmail.com** 
 
 - ⚡ Fun fact: **I love Boba and a cat lover.**
 
