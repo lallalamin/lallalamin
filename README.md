@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: **Angular and Machine Learning.**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/lallalamin](https://github.com/lallalamin)
+- 👨‍💻 All of my coding projects are available here!
 
 - 📫 How to reach me: **mari.hirota97@gmail.com** 
 
