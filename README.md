@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my coding projects are available here!
 
-- 📫 How to reach me: **mari.hirota97@gmail.com** 
+- 📫 How to reach me: **mari.hirota97@gmail.com** or **mari.hirota@nwciowa.edu**
 
 - ⚡ Fun fact: **I love Boba and a cat lover.**
   
