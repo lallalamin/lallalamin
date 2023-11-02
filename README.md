@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Portfolio**
 
-- 🌱 I’m currently learning: **Angular, Machine Learning and AWS.**
+- 🌱 I’m currently learning: **Angular, Machine Learning, Tableau and AWS.**
 
 - 👨‍💻 All of my coding projects are available here!
 
