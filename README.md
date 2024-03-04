@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mari-hirota-9a5b85230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mari-hirota-9a5b85230" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_m.a.r.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_m.a.r.i" height="30" width="40" /></a>
+<a href="https://instagram.com/lallalamari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lallalamari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lallalamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lallalamin" height="30" width="40" /></a>
 <a href ="https://discord.com/users/840944167098122251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lallalamin#8328" height="30" width="40" /></a> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lallalamin&show_icons=true&locale=en&layout=compact" alt="lallalamin" />
