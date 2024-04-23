@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h4 align="center">A CS major with a passion for coding and building innovative solutions from Japan and Thailand. I'm aspiring to be a Software Engineer. My journey in computer science has been an exciting exploration, delving into both the visual appeal of creating websites and the intricate workings behind the scenes.</h3>
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on: **Portfolio**
+- 🔭 I’m currently working on: **Portfolio, Mobile App, Crochet Website**
 
 - 🌱 I’m currently learning: **Angular, Machine Learning, Tableau and AWS.**
 
