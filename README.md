@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Portfolio, Mobile App, Crochet Website**
 
-- 🌱 I’m currently learning: **Angular, Machine Learning, Tableau and AWS.**
+- 🌱 I’m currently learning: **Angular, Machine Learning, and AWS.**
 
 - 👨‍💻 All of my coding projects are available here!
 
