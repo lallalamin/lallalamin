@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--<h1 align="center">Hi 👋, I'm Mari Hirota </h1>-->
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on: **Mobile App, Crochet Website**
+- 🔭 I’m currently working on: **CodeOasis, Crochet Website**
 
-- 🌱 I’m currently learning: **Machine Learning, and AWS.**
+- 🌱 I’m currently learning: **Machine Learning, GCP, and AWS.**
 
 - 👨‍💻 All of my coding projects are available here!
 
