@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **mari.hirota97@gmail.com** or **mari.hirota@nwciowa.edu**
 
-- ⚡ Fun fact: **I love Boba and a cat lover.**
+- ⚡ Fun fact: **I love Boba and a cat lover.🐈**
   
 - 👾 My Portfolio: [https://lallalamin.github.io/](https://lallalamin.github.io/)
 
