@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 - 👾 My Portfolio: [https://lallalamin.github.io/](https://lallalamin.github.io/)
 
-- 📝 I regularly write articles on [https://lallala-diary.vercel.app/](https://lallala-diary.vercel.app/)
+<!-- - 📝 I regularly write articles on [https://lallala-diary.vercel.app/](https://lallala-diary.vercel.app/) -->
 
 
 <h3 align="left">Connect with me:</h3>
