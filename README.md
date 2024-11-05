@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I love Boba and a cat lover.🐈**
   
-- 👾 My Portfolio: [https://lallalamin.github.io/](https://lallalamin.github.io/)
+- 👾 My Portfolio: [https://mari-hirota-portfolio.vercel.app/](https://mari-hirota-portfolio.vercel.app/)
 
 <!-- - 📝 I regularly write articles on [https://lallala-diary.vercel.app/](https://lallala-diary.vercel.app/) -->
 
