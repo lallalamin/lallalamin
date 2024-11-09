@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **CodeOasis, YarnLoop**
 
-- 🌱 I’m currently learning: **Machine Learning, GCP, and AWS.**
+- 🌱 I’m currently learning: **Machine Learning and AWS.**
 
 - 👨‍💻 All of my coding projects are available here!
 
