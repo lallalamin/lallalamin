@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **mari.hirota97@gmail.com**
 
-- ⚡ Fun fact: **I love Boba and a cat lover.🐈**
+- ⚡ Fun fact: **I love Boba and a cat lover.🐈 I am from Thailand and Japan**
   
 - 👾 My Portfolio: [https://mari-hirota-portfolio.vercel.app/](https://mari-hirota-portfolio.vercel.app/)
 
