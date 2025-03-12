@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--- 🌱 I’m currently learning: **Machine Learning and AWS.**-->
 
-- 👨‍💻 All of my coding projects are available here!
+<!-- - 👨‍💻 All of my coding projects are available here! **-->
 
 <!--- - 📫 How to reach me: **mari.hirota97@gmail.com** **-->
 
